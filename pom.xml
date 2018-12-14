@@ -16,4 +16,11 @@
     <failOnMissingWebXml>false</failOnMissingWebXml>   
 </properties>
   
+    <distributionManagement>
+        <repository>
+            <id>internal</id>
+            <url>file://C:/dev/Jenkins/workspace/mywebapp</url>
+        </repository>
+  </distributionManagement>
+  
 </project>
