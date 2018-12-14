@@ -10,6 +10,6 @@
   <url>http://maven.apache.org/</url>
   
 <build>
-  <finalname>mywebapp</finalname>
+  <finalName>mywebapp</finalName>
   </build> 
 </project>
