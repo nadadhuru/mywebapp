@@ -9,11 +9,7 @@
   <name>mywebapp</name>
   <url>http://maven.apache.org/</url>
   
-  <properties>
-    <failOnMissingWebXml>false</failOnMissingWebXml>   
-</properties>
-
 <build>
   <finalname>mywebapp</finalname>
-  </build>  
+  </build> 
 </project>
