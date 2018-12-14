@@ -14,6 +14,6 @@
 </properties>
 
 <build>
-  <filename>mywebapp</filename>
+  <finalname>mywebapp</finalname>
   </build>  
 </project>
