@@ -12,4 +12,8 @@
 <build>
   <finalName>mywebapp</finalName>
   </build> 
+      <properties>
+    <failOnMissingWebXml>false</failOnMissingWebXml>   
+</properties>
+  
 </project>
